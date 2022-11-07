@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seungha Um / Site Title"
+title                    : "Seungha Um"
 title_separator          : "-"
 name                     : &name "Seungha Um"
 description              : &description "personal description"
